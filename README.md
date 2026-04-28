@@ -41,7 +41,7 @@ The main objective is to analyze sales performance, product trends, and customer
 
 ---
 
-## 📈 Analysis Performed (SQL / OLAP)
+## 📈 Analysis Performed (OLAP)
 - a. What is the total sales revenue across all three branches?
 - b. Which branch has the highest total sales revenue?
 - c. What are the top 10 best-selling products (based on quantity sold)?
