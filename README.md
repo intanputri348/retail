@@ -42,10 +42,10 @@ The main objective is to analyze sales performance, product trends, and customer
 ---
 
 ## 📈 Analysis Performed (SQL / OLAP)
-a. What is the total sales revenue across all three branches?
-b. Which branch has the highest total sales revenue?
-c. What are the top 10 best-selling products (based on quantity sold)?
-d. What is the total monthly sales revenue across all three branches?
-e. Which product category generates the highest revenue?
-f. Which customer age segment contributes the most to total purchases?
-g. Which branch has the highest number of transactions (transaction activity)?
+- a. What is the total sales revenue across all three branches?
+- b. Which branch has the highest total sales revenue?
+- c. What are the top 10 best-selling products (based on quantity sold)?
+- d. What is the total monthly sales revenue across all three branches?
+- e. Which product category generates the highest revenue?
+- f. Which customer age segment contributes the most to total purchases?
+- g. Which branch has the highest number of transactions (transaction activity)?
